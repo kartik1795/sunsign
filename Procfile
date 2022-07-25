@@ -1,1 +1,1 @@
-web:gunicorn sun.wsgi
+web: gunicorn sun.wsgi
